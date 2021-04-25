@@ -1,8 +1,9 @@
-![icon](https://raw.githubusercontent.com/Kalapen0/Pack-K-Purple/main/icon.png)
+![icon](https://i.imgur.com/3rrt5b9.png)
 
 
 ## Resizable
-![resizable](https://raw.githubusercontent.com/Kalapen0/Pack-K-Purple/main/resizeable_mode.png)
+![resizable](https://i.imgur.com/FQZHqJm.png)
 
 ## Fixed
-![resizable](https://raw.githubusercontent.com/Kalapen0/Pack-K-Purple/main/fixed_mode.png)
+![resizable](https://i.imgur.com/5rb6QUN.png)
+>>>>>>> Stashed changes
